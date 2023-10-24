@@ -123,7 +123,7 @@ Before deployment, go to the index.html page in the public folder and make a cou
 Enter this commmand to begin site deployment:
 > netlify deploy
 
-Next select the options below:
+Next select the options below that are asked in each line:
 ? What would you like to do? + Create & configure a new site
 ? Team: (Name of team on Netlify dashboard)
 ? Site name: (enter what you would like your site to be named)
