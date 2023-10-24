@@ -1,6 +1,6 @@
 ### Hugo Netlify Presentation
 
-Netlify is one of the most popular site hosting platforms. This presentation is about Netlify and about Hugo.
+Netlify is one of the most popular site hosting platforms. This presentation is about Netlify.
 
 
 
