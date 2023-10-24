@@ -18,7 +18,7 @@ Slide with opening title and names of presentators.
 
 ![Slide 3](<Netlify slides/Slide3.PNG>)
 
-Introduction to Netlify with an image that shows cloud computing/
+Introduction to Netlify with an image that shows cloud computing.
 
 
 ![Slide 4](<Netlify slides/Slide4.PNG>)
